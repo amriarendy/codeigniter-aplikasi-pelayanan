@@ -22,8 +22,6 @@
         <li class="header">MAIN NAVIGATION</li>
         <li><a href="<?= site_url('master-pelayanan') ?>"><i class="fa fa-archive"></i> Master Pelayanan</a></li>
         <li><a href="<?= site_url('pelayanan') ?>"><i class="fa fa-book"></i> Pelayanan</a></li>
-        <li><a href="<?= site_url('master-pelayanan') ?>"><i class="fa fa-money"></i> Keuangan</a></li>
-        <li><a href="<?= site_url('pelayanan') ?>"><i class="fa fa-bullhorn"></i> Aduan</a></li>
         <li><a href="<?= site_url('users') ?>"><i class="fa fa-user"></i> <span>Data Pengguna</span></a></li>
         <?php endif; ?>
         <li class="header">More</li>

@@ -34,8 +34,7 @@
         </div>
         <div class="box-body text-center">
           <h2>SISTEM INFORMASI PELAYANAN ADMINISTRASI DESA</h2><br>
-          <h3>Yuliana Arista</h3><br>
-          <h3>Tugas Kuliah Pemograman WEB II</h3><br>
+          <h3>https://github.com/amriarendy</h3><br>
         </div>
         <!-- /.box-body -->
         <div class="box-footer">
